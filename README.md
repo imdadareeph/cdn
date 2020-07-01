@@ -1,3 +1,3 @@
 # cdn
 
- ![alt text](https://raw.githubusercontent.com/imdadareeph/aws-sqs-springboot/master/src/main/resources/static/screenshots/1.png "preview1")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/cdn/master/screenshots/team.png "preview1")
